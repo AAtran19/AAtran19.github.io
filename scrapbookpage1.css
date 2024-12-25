@@ -1,0 +1,409 @@
+body{
+    background-color:#FFFFE0;
+    
+    /* #FFFDE7; */
+}
+/* #paperstrip{
+    margin-top:-10%;
+    height:10%;
+} */
+
+ .image-container {
+    position: absolute;
+    display: inline-block;
+  }
+
+  .image-container img {
+    display: block;
+    width: 50%;
+    height: auto;
+    margin-top:-8%;
+    margin-left: 45%;
+    margin-right: auto;
+  }
+  
+  .overlay-text {
+    position: absolute;
+    top: 25%; 
+    left: 70%; 
+    transform: translate(-50%, -50%);  
+    color:black; 
+    padding: 10px 20px; 
+    font-family: "Dancing Script", serif;
+    font-weight: 400;
+    font-size:30px;
+    font-style: normal;
+    text-align: start;
+  }
+  #stars{
+    position:relative;
+    width:3%;
+    vertical-align:top;
+    margin-top:3%;
+    margin-left:-55%;
+    height:20%;
+
+ }
+  #window-ashley{
+    position:relative;
+    width:20%;
+    height:40%;
+    left:2%;
+    margin-top:10%;
+    border-radius: 25px;
+
+ }
+  #window-alvin{
+    position:relative;
+    width:20%;
+    height:40%;
+    left:2%;
+    border-radius: 25px;
+}
+.container {
+    position: relative; /* Establish the parent as the containing block */
+    height: 100vh;      /* Ensure the container has a height (100% of the viewport) */
+    width: 100%;        /* Full width of the page */
+    background-color: #fef9e6; /* Example background color */
+}
+  #washihearts{
+    position:relative;
+    width:15%;
+    right:43%;
+  }
+  #blue-stars{
+    position:relative;
+    width:10%;
+    vertical-align: top;
+    margin-top:5%;
+  }
+  #pink-stars{
+    position:relative;
+    width:10%;
+    left:19%;
+    vertical-align:top;
+    margin-top:5%;
+  }
+  #pink-hearts{
+    position:relative;
+    width:7%;
+    left:-10%;
+    vertical-align:top;
+    margin-top:2%;
+  }
+  #miffy{
+    position:relative;
+    width:10%;
+    left:-8%;
+    vertical-align:top;
+    margin-top:-1%;
+  }
+  #polaroidphoto2{
+    position:relative;
+    width:40%;
+    left:20%;
+    vertical-align:top;
+    margin-top:5%;
+  }
+  #babies{
+    position:relative;
+    width:40%;
+    left:34%;
+  }
+  #airportkisk{
+    position:relative;
+    width:40%;
+    left:20%;
+    vertical-align:top;
+    margin-top:5%;
+  }
+  #stuffedanimals{
+    position:relative;
+    width:50%;
+    left:-10%;
+    vertical-align:top;
+    margin-top:-44%;
+  }
+  #ashley-airport{
+    position:relative;
+    width:25%;
+    left:5%;
+    vertical-align:top;
+    margin-top:-34%;
+    border-radius: 25px;
+  }
+ #alvin-airport{
+  position:relative;
+  width:25%;
+  left:51%;
+  vertical-align:top;
+  margin-top:-34%;
+  border-radius: 25px;
+ }
+#domo{
+  position:relative;
+  width:7%;
+  left:-18%;
+  vertical-align:top;
+  margin-top:-37%;
+}
+
+#domolove{
+  position:relative;
+  width:30%;
+  left:13%;
+  vertical-align:top;
+  margin-top:-86%;
+}
+#catwinking{
+  position:relative;
+  width:14%;
+  left:59%;
+  vertical-align:top;
+  margin-top:-74%;
+}
+#white-star{
+  position:relative;
+  width:12%;
+  left:32%;
+  vertical-align:top;
+  margin-top:-76%;
+}
+#star-3{
+  position:relative;
+  width:9%;
+  left:41%;
+  vertical-align:top;
+  margin-top:-76%;
+}
+#handrawnhearts{
+  position:relative;
+  width:13%;
+  left:12.5%;
+  vertical-align:top;
+  margin-top:-30%;
+}
+#crystalheart{
+    position:relative;
+    width:4%;
+    left:-6%;
+    vertical-align:top;
+    margin-top:-70%;
+}
+#bluemusicnotes{
+  position:relative;
+  width:8%;
+  left:9%;
+  vertical-align:top;
+  margin-top:-45%;
+}
+#miffy-glasses{
+  position:relative;
+  width:8%;
+  left:-46%;
+  vertical-align:top;
+  margin-top:-40.0%;
+}
+#cowcat{
+  position:relative;
+  width:19%;
+  left:-4%;
+  vertical-align:top;
+  margin-top:-43%;
+}
+#kissingcartoon{
+  position:relative;
+  width:7%;
+  left:-86%;
+  vertical-align:top;
+  margin-top:-40%;
+}
+#rilakkumalift{
+  position:relative;
+  width:10%;
+  left:73%;
+  vertical-align:top;
+  margin-top:-10%;
+}
+#catbunny{
+  position:relative;
+  width:13%;
+  left:-9%;
+  vertical-align:top;
+  margin-top:-17%;
+}
+#dump{
+  position:relative;
+  width:8%;
+  left: 70%;
+  vertical-align:top;
+  margin-top:-50%;
+}
+#blueheart{
+  position:relative;
+  width:7%;
+  left: 65%;
+  vertical-align:top;
+  margin-top:-57%;
+}
+#star-gingham{
+  position:relative;
+  width:15%;
+  left: 52%;
+  vertical-align:top;
+  margin-top:-70%;
+}
+#star-blue{
+  position:relative;
+  width:9%;
+  left: 28%;
+  vertical-align:top;
+  margin-top:-46%;
+}
+#blue-ribbon{
+  position:relative;
+  width:12%;
+  left: 7%;
+  vertical-align:top;
+  margin-top:-58%;
+}
+#pink-butterfly{
+  position:relative;
+  width:11%;
+  left:29%;
+  vertical-align:top;
+  margin-top:-78%;
+}
+#white-heart{
+  position:relative;
+  width:5%;
+  left: -14%;
+  vertical-align:top;
+  margin-top:-61.5%;
+}
+#pochaccoswim{
+  position:relative;
+  width:9%;
+  left:13%;
+  vertical-align:top;
+  margin-top:-40%;
+}
+#flower-white{
+  position:relative;
+  width:6%;
+  left:-93%;
+  vertical-align:top;
+  margin-top:-34%;
+}
+#purplestar{
+  position:relative;
+  width:10%;
+  left:-3%;
+  vertical-align:top;
+  margin-top:-29%;
+}
+#ombreheart{
+  position:relative;
+  width:5%;
+  left:13%;
+  vertical-align:top;
+  margin-top:-43%;
+}
+#pink-white-ribbon{
+  position:relative;
+  width:6%;
+  left:-5%;
+  vertical-align:top;
+  margin-top:-42.5%;
+}
+#jam-bear{
+  position:relative;
+  width:9%;
+  left:-40%;
+  vertical-align:top;
+  margin-top:-38%;
+}
+#sleepingrilk{
+  position:relative;
+  width:9%;
+  left:64%;
+  vertical-align:top;
+  margin-top:-10%;
+}
+#iridiescent{
+  position:relative;
+  width:5%;
+  left:62%;
+  vertical-align:top;
+  margin-top:-31.5%;
+}
+#bluest{
+  position:relative;
+  width:5%;
+  left:58%;
+  vertical-align:top;
+  margin-top:-37.5%;
+}
+#bluest1{
+  position:relative;
+  width:5%;
+  left:20%;
+  vertical-align:top;
+  margin-top:-26.5%;
+}
+#whiteheart{
+  position:relative;
+  width:6%;
+  left:29.5%;
+  vertical-align:top;
+  margin-top:-39.5%;
+}
+#bluest3{
+  position:relative;
+  width:3%;
+  left:43%;
+  vertical-align:top;
+  margin-top:-26.5%;
+}
+#pink2{
+  position:relative;
+  width:5%;
+  left:37%;
+  vertical-align:top;
+  margin-top:-21.5%;
+}
+#pink3{
+  position:relative;
+  width:3%;
+  left:-40%;
+  vertical-align:top;
+  margin-top:-27.5%;
+}
+#white1{
+  position:relative;
+  width:5%;
+  left:30%;
+  vertical-align:top;
+  margin-top:-10.5%;
+}
+#pink4{
+  position:relative;
+    width:4%;
+    left:-22%;
+    vertical-align:top;
+    margin-top:-72%;
+}
+#bluest4{
+  position:relative;
+  width:3%;
+  left:-40%;
+  vertical-align:top;
+  margin-top:-7.5%;
+}
+#bluest5{
+  position:relative;
+  width:5%;
+  left: 19%;
+  vertical-align:top;
+  margin-top:-15.5%;
+}
